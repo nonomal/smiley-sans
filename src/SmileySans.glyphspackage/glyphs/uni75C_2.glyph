@@ -1,15 +1,13 @@
 {
-color = 10;
 glyphname = uni75C2;
 layers = (
 {
-color = 4;
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(214,809,l),
+(214,808,l),
 (181,495,ls),
 (154,236,o),
 (124,96,o),
@@ -19,7 +17,7 @@ nodes = (
 (235,226,o),
 (264,495,cs),
 (293,761,l),
-(251,727,l),
+(251,726,l),
 (790,726,l),
 (798,808,l)
 );
@@ -119,13 +117,6 @@ nodes = (
 );
 }
 );
-width = 800;
-},
-{
-associatedMasterId = m01;
-color = 4;
-layerId = "D98B2210-ACFD-4EA2-A2EA-343760EDFC6A";
-name = "22年11月7日 16:48";
 width = 800;
 }
 );

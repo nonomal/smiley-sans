@@ -1,5 +1,4 @@
 {
-color = 10;
 glyphname = uni7EE9;
 layers = (
 {
@@ -154,12 +153,6 @@ nodes = (
 );
 }
 );
-width = 800;
-},
-{
-associatedMasterId = m01;
-layerId = "F6121DD5-DE39-42B5-A6FB-492F6B6C066C";
-name = "22年9月28日 15:56";
 width = 800;
 }
 );

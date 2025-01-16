@@ -1,5 +1,4 @@
 {
-color = 2;
 glyphname = four.tf;
 layers = (
 {
@@ -8,7 +7,7 @@ shapes = (
 {
 alignment = -1;
 pos = (20,0);
-ref = four.lf;
+ref = four.case;
 }
 );
 width = 470;

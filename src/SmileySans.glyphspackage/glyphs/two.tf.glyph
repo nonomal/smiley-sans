@@ -1,5 +1,4 @@
 {
-color = 2;
 glyphname = two.tf;
 layers = (
 {
@@ -8,7 +7,7 @@ shapes = (
 {
 alignment = -1;
 pos = (29,0);
-ref = two.lf;
+ref = two.case;
 }
 );
 width = 470;

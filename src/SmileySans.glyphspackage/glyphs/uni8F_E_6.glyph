@@ -1,9 +1,7 @@
 {
-color = 10;
 glyphname = uni8FE6;
 layers = (
 {
-color = 4;
 layerId = m01;
 shapes = (
 {
@@ -124,7 +122,6 @@ width = 800;
 },
 {
 associatedMasterId = m01;
-color = 4;
 layerId = "F18AC726-80D2-43DF-8830-B5807CFA9DCE";
 name = "22年11月7日 16:48";
 shapes = (

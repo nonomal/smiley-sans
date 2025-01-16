@@ -1,9 +1,7 @@
 {
-color = 10;
 glyphname = uni7924;
 layers = (
 {
-color = 4;
 layerId = m01;
 shapes = (
 {
@@ -39,7 +37,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(205,807,l),
+(205,808,l),
 (177,681,o),
 (138,565,o),
 (80,454,c),

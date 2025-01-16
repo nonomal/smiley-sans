@@ -1,5 +1,4 @@
 {
-color = 2;
 glyphname = eight.tf;
 layers = (
 {
@@ -8,7 +7,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-4,0);
-ref = eight.lf;
+ref = eight.case;
 }
 );
 width = 470;

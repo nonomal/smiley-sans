@@ -1,5 +1,4 @@
 {
-color = 10;
 glyphname = uni87BA;
 layers = (
 {
@@ -155,7 +154,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(447,387,l),
+(447,386,l),
 (499,433,o),
 (545,487,o),
 (579,538,c),

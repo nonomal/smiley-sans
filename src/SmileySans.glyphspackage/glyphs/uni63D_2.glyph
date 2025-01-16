@@ -1,5 +1,4 @@
 {
-color = 0;
 glyphname = uni63D2;
 layers = (
 {
@@ -61,8 +60,8 @@ nodes = (
 closed = 1;
 nodes = (
 (422,431,o),
-(382,413,o),
-(347,401,c),
+(380,413,o),
+(345,401,c),
 (371,329,l),
 (408,340,o),
 (450,357,o),
@@ -138,12 +137,6 @@ nodes = (
 );
 }
 );
-width = 800;
-},
-{
-associatedMasterId = m01;
-layerId = "A8A481C0-F2FA-487E-9347-7B9C93EB26BE";
-name = "22年10月31日 10:44";
 width = 800;
 },
 {

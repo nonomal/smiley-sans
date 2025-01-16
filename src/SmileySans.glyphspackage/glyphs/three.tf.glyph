@@ -1,5 +1,4 @@
 {
-color = 2;
 glyphname = three.tf;
 layers = (
 {
@@ -8,7 +7,7 @@ shapes = (
 {
 alignment = -1;
 pos = (23,0);
-ref = three.lf;
+ref = three.case;
 }
 );
 width = 470;

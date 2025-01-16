@@ -1,9 +1,7 @@
 {
-color = 10;
 glyphname = uni7B2A;
 layers = (
 {
-color = 4;
 layerId = m01;
 shapes = (
 {
@@ -18,8 +16,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(538,802,l),
-(536,719,l),
+(537,802,l),
+(537,719,l),
 (785,719,l),
 (794,802,l)
 );
@@ -116,13 +114,6 @@ nodes = (
 );
 }
 );
-width = 800;
-},
-{
-associatedMasterId = m01;
-color = 4;
-layerId = "D8A40DBD-2CB2-43D9-A193-E4BA7A07A01F";
-name = "22年11月7日 16:48";
 width = 800;
 }
 );
